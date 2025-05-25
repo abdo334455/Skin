@@ -1,0 +1,5 @@
+{
+  "name": "AI Skin Analyzer (Egypt Focus)",
+  "description": "AI-powered skin analysis. Upload your photo, get a detailed treatment plan in Arabic with products available in Egypt. English interface.",
+  "requestFramePermissions": ["camera"]
+}
